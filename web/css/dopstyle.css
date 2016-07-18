@@ -1,0 +1,43 @@
+html, body {
+	height:auto;
+	background-color: #EEEEEE;
+}
+
+.upper{	
+	text-transform: uppercase;
+}
+.lower{	
+	text-transform: lowercase;
+}
+.tst{
+	
+	font-weight: normal ; 
+}
+
+.top{
+	background-color: #168DE2;	
+	color: #E5E6CB;	
+}
+.top a{
+	color: #FFC478;
+	font-weight: bold;
+}
+.top  
+	a:hover,
+	a:focus {
+	color: white;
+	text-decoration: none; 
+	
+ }
+.topCar{
+	font-size: 20px;
+}
+
+.height{
+	max-height: 60px;
+}
+
+.spacing{
+	letter-spacing: 10px;
+	font-weight: bold;
+}
